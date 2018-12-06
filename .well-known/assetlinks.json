@@ -6,14 +6,5 @@
     "sha256_cert_fingerprints":
     ["AD:F9:35:B9:40:44:DC:47:D0:49:3F:9C:BD:58:7F:24:1B:4B:FE:A3:DA:6A:CA:2A:3D:6C:C1:42:AB:25:26:BC"]
   }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.miairline.staging.f3",
-    "sha256_cert_fingerprints":
-    ["AD:F9:35:B9:40:44:DC:47:D0:49:3F:9C:BD:58:7F:24:1B:4B:FE:A3:DA:6A:CA:2A:3D:6C:C1:42:AB:25:26:BC"]
-  }
 }
 ]
